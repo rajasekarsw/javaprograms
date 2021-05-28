@@ -6,6 +6,9 @@ public class Helloworld {
 	{
 		
 		System.out.println("Hello world");
+		
+		System.out.println("Hello india");
+		
 
 	}
 
