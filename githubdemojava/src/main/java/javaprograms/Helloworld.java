@@ -8,6 +8,7 @@ public class Helloworld {
 		System.out.println("Hello world");
 		
 		System.out.println("Hello tamilnadu");
+		System.out.println("Tamil");
 		
 		System.out.println("This is Rajasekar");
 		
